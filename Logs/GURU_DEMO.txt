@@ -1,0 +1,100 @@
+2020-05-19 22:32:03 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:32:05 INFO  DEMO_PROJECT:22 - Switched to frame
+2020-05-19 22:32:06 INFO  DEMO_PROJECT:24 - Closed the frame
+2020-05-19 22:32:06 INFO  DEMO_PROJECT:26 - Entered username
+2020-05-19 22:32:06 INFO  DEMO_PROJECT:28 - Entered password
+2020-05-19 22:32:08 INFO  DEMO_PROJECT:35 - Mismatch in title
+2020-05-19 22:36:17 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:36:19 INFO  DEMO_PROJECT:22 - Switched to frame
+2020-05-19 22:36:20 INFO  DEMO_PROJECT:24 - Closed the frame
+2020-05-19 22:36:20 INFO  DEMO_PROJECT:26 - Entered username
+2020-05-19 22:36:20 INFO  DEMO_PROJECT:28 - Entered password
+2020-05-19 22:36:23 INFO  DEMO_PROJECT:35 - Mismatch in title
+2020-05-19 22:40:35 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:40:36 INFO  DEMO_PROJECT:22 - Switched to frame
+2020-05-19 22:40:37 INFO  DEMO_PROJECT:24 - Closed the frame
+2020-05-19 22:40:37 INFO  DEMO_PROJECT:26 - Entered username
+2020-05-19 22:40:37 INFO  DEMO_PROJECT:28 - Entered password
+2020-05-19 22:40:40 INFO  DEMO_PROJECT:35 - Mismatch in title
+2020-05-19 22:45:16 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:45:20 INFO  DEMO_PROJECT:25 - Switched to frame
+2020-05-19 22:45:21 INFO  DEMO_PROJECT:27 - Closed the frame
+2020-05-19 22:45:21 INFO  DEMO_PROJECT:29 - Entered username
+2020-05-19 22:45:21 INFO  DEMO_PROJECT:31 - Entered password
+2020-05-19 22:45:24 INFO  DEMO_PROJECT:40 - Mismatch in title
+2020-05-19 22:49:19 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:49:21 INFO  DEMO_PROJECT:25 - Switched to frame
+2020-05-19 22:49:22 INFO  DEMO_PROJECT:27 - Closed the frame
+2020-05-19 22:49:22 INFO  DEMO_PROJECT:29 - Entered username
+2020-05-19 22:49:22 INFO  DEMO_PROJECT:31 - Entered password
+2020-05-19 22:49:24 INFO  DEMO_PROJECT:41 - Mismatch in title
+2020-05-19 22:50:21 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:50:23 INFO  DEMO_PROJECT:25 - Switched to frame
+2020-05-19 22:50:24 INFO  DEMO_PROJECT:27 - Closed the frame
+2020-05-19 22:50:24 INFO  DEMO_PROJECT:29 - Entered username
+2020-05-19 22:50:24 INFO  DEMO_PROJECT:31 - Entered password
+2020-05-19 22:50:26 INFO  DEMO_PROJECT:41 - Mismatch in title
+2020-05-19 22:54:47 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:54:48 INFO  DEMO_PROJECT:20 - Switched to frame
+2020-05-19 22:54:49 INFO  DEMO_PROJECT:22 - Closed the frame
+2020-05-19 22:54:49 INFO  DEMO_PROJECT:24 - Entered username
+2020-05-19 22:54:49 INFO  DEMO_PROJECT:26 - Entered password
+2020-05-19 22:58:25 INFO  DEMO_PROJECT:60 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:58:26 INFO  DEMO_PROJECT:20 - Switched to frame
+2020-05-19 22:58:27 INFO  DEMO_PROJECT:22 - Closed the frame
+2020-05-19 22:58:27 INFO  DEMO_PROJECT:24 - Entered username
+2020-05-19 22:58:27 INFO  DEMO_PROJECT:26 - Entered password
+2020-05-19 22:58:29 INFO  DEMO_PROJECT:37 - Mismatch in title
+2020-05-19 22:59:14 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 22:59:16 INFO  DEMO_PROJECT:20 - Switched to frame
+2020-05-19 22:59:16 INFO  DEMO_PROJECT:22 - Closed the frame
+2020-05-19 22:59:17 INFO  DEMO_PROJECT:24 - Entered username
+2020-05-19 22:59:17 INFO  DEMO_PROJECT:26 - Entered password
+2020-05-19 22:59:19 INFO  DEMO_PROJECT:37 - Mismatch in title
+2020-05-19 23:01:52 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:01:54 INFO  DEMO_PROJECT:35 - Switched to frame
+2020-05-19 23:01:55 INFO  DEMO_PROJECT:37 - Closed the frame
+2020-05-19 23:01:55 INFO  DEMO_PROJECT:39 - Entered username
+2020-05-19 23:01:55 INFO  DEMO_PROJECT:41 - Entered password
+2020-05-19 23:02:33 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:02:35 INFO  DEMO_PROJECT:35 - Switched to frame
+2020-05-19 23:02:36 INFO  DEMO_PROJECT:37 - Closed the frame
+2020-05-19 23:02:36 INFO  DEMO_PROJECT:39 - Entered username
+2020-05-19 23:02:36 INFO  DEMO_PROJECT:41 - Entered password
+2020-05-19 23:02:38 INFO  DEMO_PROJECT:52 - Mismatch in title
+2020-05-19 23:03:15 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:03:18 INFO  DEMO_PROJECT:35 - Switched to frame
+2020-05-19 23:03:19 INFO  DEMO_PROJECT:37 - Closed the frame
+2020-05-19 23:03:19 INFO  DEMO_PROJECT:39 - Entered username
+2020-05-19 23:03:19 INFO  DEMO_PROJECT:41 - Entered password
+2020-05-19 23:04:02 INFO  DEMO_PROJECT:52 - Mismatch in title
+2020-05-19 23:07:08 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:07:10 INFO  DEMO_PROJECT:35 - Switched to frame
+2020-05-19 23:07:11 INFO  DEMO_PROJECT:37 - Closed the frame
+2020-05-19 23:07:11 INFO  DEMO_PROJECT:39 - Entered username
+2020-05-19 23:07:11 INFO  DEMO_PROJECT:41 - Entered password
+2020-05-19 23:11:33 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:11:35 INFO  DEMO_PROJECT:34 - Switched to frame
+2020-05-19 23:11:36 INFO  DEMO_PROJECT:36 - Closed the frame
+2020-05-19 23:11:36 INFO  DEMO_PROJECT:38 - Entered username
+2020-05-19 23:11:36 INFO  DEMO_PROJECT:40 - Entered password
+2020-05-19 23:18:31 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:18:33 INFO  DEMO_PROJECT:34 - Switched to frame
+2020-05-19 23:18:33 INFO  DEMO_PROJECT:36 - Closed the frame
+2020-05-19 23:18:33 INFO  DEMO_PROJECT:38 - Entered username
+2020-05-19 23:18:34 INFO  DEMO_PROJECT:40 - Entered password
+2020-05-19 23:19:46 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:19:48 INFO  DEMO_PROJECT:34 - Switched to frame
+2020-05-19 23:19:48 INFO  DEMO_PROJECT:36 - Closed the frame
+2020-05-19 23:19:48 INFO  DEMO_PROJECT:38 - Entered username
+2020-05-19 23:19:48 INFO  DEMO_PROJECT:40 - Entered password
+2020-05-19 23:23:13 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:23:14 INFO  DEMO_PROJECT:34 - Switched to frame
+2020-05-19 23:23:15 INFO  DEMO_PROJECT:36 - Closed the frame
+2020-05-19 23:23:15 INFO  DEMO_PROJECT:38 - Entered username
+2020-05-19 23:23:15 INFO  DEMO_PROJECT:40 - Entered password
+2020-05-19 23:25:33 INFO  DEMO_PROJECT:61 - Landed successfully in Guru Demo Project Page
+2020-05-19 23:25:35 INFO  DEMO_PROJECT:34 - Switched to frame
+2020-05-19 23:25:35 INFO  DEMO_PROJECT:36 - Closed the frame
+2020-05-19 23:25:35 INFO  DEMO_PROJECT:38 - Entered username
+2020-05-19 23:25:35 INFO  DEMO_PROJECT:40 - Entered password
