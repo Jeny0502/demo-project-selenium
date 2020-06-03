@@ -9,5 +9,6 @@ public class TC_002 {
 	public void One() {
 		System.out.println("Hellyy");
 		System.out.println("Heyy");
+		System.out.println("bewjbfjwe");
 	}
 }
