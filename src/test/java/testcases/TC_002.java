@@ -10,5 +10,6 @@ public class TC_002 {
 		System.out.println("Hellyy");
 		System.out.println("Heyy");
 		System.out.println("bewjbfjwe");
+		System.out.println("dwjdjweq");
 	}
 }
